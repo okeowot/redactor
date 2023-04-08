@@ -1,0 +1,12 @@
+Statistics from redaction process for samplefile.txt:
+
+Names that got redacted were: ['Lunch', 'Sally', 'Beck', 'Jacobs', 'Ted', 'Mike', 'Jody', 'Crook', 'Irma', 'Ted', 'Sally', 'Beck', 'Mike', 'McConnell', 'David', 'Beck', 'Mike', 'Richard', 'Kimberlin', 'David', 'Ted', 'Jacobs', 'Norman'] and the number of redacted names were: 23 
+
+Genders that got redacted were: [['he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'he'], ['wife'], ['her', 'her'], ['son'], ['guy']] and the number of genders found were: 5
+
+Numbers that got redacted were: ['(405) 325-0758', '(405) 325-2096'] and the number of numbers found were: 2
+
+Dates that got redacted were: ['12/12/2000', '12 Dec 2000'] and the number of Dates found were: 2
+
+Addresses and zipcodes that got redacted were: ['307 West Brooks, ', '73019-4007'] and the number of Addresses and zipcodes found were: 2
+
